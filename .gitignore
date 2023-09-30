@@ -21,3 +21,4 @@
 !microbench_hpx.cpp
 !workerd/*
 !iperf/*
+!README.md
